@@ -8,3 +8,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcig&show_icons=true&locale=en&layout=compact" alt="xcig" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xcig&show_icons=true&locale=en" alt="xcig" /></p>
+<h3 align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
+</h3>

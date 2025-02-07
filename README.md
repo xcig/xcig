@@ -18,3 +18,7 @@
 <h3 align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
 </h3>
+
+
+
+<h5>Template taken from [here](<https://github.com/AxZeRxD/AxZeRxD/blob/main/README.md?plain=1>)</h5>

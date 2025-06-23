@@ -1,5 +1,5 @@
 <h1 align="center">Lyno</h1>
-<h3 align="center">A Professional retarded | I own [lyno](https://discord.gg/lyno)</h3>
+<h3 align="center">A Professional retarded | I own [lyno](<https://discord.gg/lyno>)</h3>
 
 
 <div align="center">
